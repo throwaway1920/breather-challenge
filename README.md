@@ -4,7 +4,7 @@ Here's my Breather challenge. This is only a small overview of what I can do!
 
 ### Installation
 
-Clone the repo, install the dependencies and start the server.
+Clone the repo, install the dependencies and start the server. This was tested only in Chrome.
 
 ```sh
 $ git clone https://github.com/throwaway1920/breather-challenge.git
