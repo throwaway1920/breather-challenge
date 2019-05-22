@@ -7,7 +7,7 @@ Here's my Breather challenge. This is only a small overview of what I can do!
 Clone the repo, install the dependencies and start the server.
 
 ```sh
-git clone https://github.com/throwaway1920/breather-challenge.git
+$ git clone https://github.com/throwaway1920/breather-challenge.git
 $ cd breather-challenge
 $ npm install
 $ npm start
